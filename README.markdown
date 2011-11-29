@@ -100,6 +100,9 @@ Another thing we'll need to do is to set up a collective entity through which to
 future versions of this application on the iTunes App Store and to set up a
 project team in the iPhone Dev Center. 
 
+## Fork created to test NJTransit GFTS Info
+Created by SWA Nov 2011
+
 ## Open Source License
 
 The source code for OpenMBTA is governed by the MIT License, which reads as
